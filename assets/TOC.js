@@ -1,6 +1,6 @@
 /**
  * Created by grant skinner on 15-10-01.
- * Simple script to build a Table Of Contents from the document structure.
+ * Simple script to build a Table Of Contents from the document structure..
  */
 (function() {
 if (document.readyState === "complete") { buildTOC(); }
